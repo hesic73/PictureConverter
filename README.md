@@ -4,7 +4,9 @@
 
 **PictureConverter** is a simple, toy project developed with Qt 5.15.2. It provides a basic GUI for users to convert image files between different formats.
 
-![demo](assets/demo.gif)
+
+https://github.com/hesic73/PictureConverter/assets/59533230/5941e878-9ef6-482c-8b7f-ef45b4a0ce16
+
 
 ## Usage
 
