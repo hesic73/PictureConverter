@@ -8,7 +8,6 @@
 class MainWindow : public QMainWindow
 {
     Q_OBJECT
-
 public:
     MainWindow(QWidget *parent = nullptr): QMainWindow(parent){
         imageInfoList=new ImageInfoList(this);
